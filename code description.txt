@@ -1,0 +1,17 @@
+File Description:
+
+This file contains code for conducting three distinct analyses:
+
+Sentiment Analysis with Two Classifiers:
+
+Utilizes two different classifiers to perform sentiment analysis on textual data. This analysis aims to categorize text into positive, negative, or neutral sentiment categories using distinct algorithms.
+
+Clustering and LDA (Latent Dirichlet Allocation):
+
+Implements clustering techniques along with Latent Dirichlet Allocation to uncover hidden structures and topics within the data. Clustering helps group similar data points together, while LDA reveals latent topics present in the textual data.
+
+Sentiment Trend Over Time and Correlation:
+
+Investigates sentiment trends over a period of time and explores correlations between sentiment fluctuations and other variables. This analysis aims to understand how sentiment changes over time and its relationship with external factors.
+
+Additionally, the file includes a dataset named "covidvaccine.csv" in CSV format, which likely contains data related to COVID-19 vaccines. This dataset may serve as input for the analyses mentioned above.
